@@ -34,7 +34,8 @@ The website now meets accessibility standards by fulfilling the criteria below:
 ### 2. Other challenges: The Scout Rule aka Always leave code cleaner than the state you found it
 
 - All links are functioning correctly now - the top one missed the first anchor to SEO
-- rework the CSS to make it more efficient by consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+- Reworked the CSS to make it more efficient consolidating code, removing repetitive code, or reordering them to follow the semantic structure of the HTML elements as the aside code was ahead of the main
+- Placed comments before major sections of the page.
 
 ## Pics or it didn't happen (Screenshot)
 
