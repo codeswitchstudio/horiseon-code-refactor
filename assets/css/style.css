@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* transformed div class to header tag*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,10 +21,13 @@ header h1 {
     font-size: 48px;
 }
 
+/* the distinct colour of seo in the horiseon logo */
+
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* remained div to nav for the nav bar on the top right side */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* remained div to article */
 article {
     height: 800px;
     width: 100%;
@@ -68,12 +73,15 @@ article {
     margin-left: 25px;
 }
 
+
+/* renamed div containing sections to main */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* renamed div to semantic tag aside */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -186,6 +194,9 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* renamed below div to footer */
 
 footer {
     padding: 30px;
