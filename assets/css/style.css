@@ -73,7 +73,6 @@ article {
     margin-left: 25px;
 }
 
-
 /* renamed div containing sections to main */
 main {
     width: 75%;
@@ -122,39 +121,10 @@ section img {
 }
 
 
-/* .search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
-
-
 section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-
-/* .search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-    
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 
 /* renamed div to semantic tag aside */
@@ -174,70 +144,16 @@ aside {
     color: #ffffff;
 }
 
-
-/* .benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
-
-
 .card h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-
-/* .benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
 
 .card img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* .benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
-
 
 /* renamed below div to footer */
 
